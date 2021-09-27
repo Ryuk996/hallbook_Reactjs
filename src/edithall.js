@@ -39,7 +39,7 @@ export default function EditHall(props){
     return(
         <div>
       <div class="d-sm-flex align-items-center justify-content-between mb-4">
-        <h1 class="h3 mb-0 text-gray-800">Create room</h1>
+        <h1 class="h3 mb-0 text-gray-800">Edit Hall</h1>
       </div>
       <div className="container">
         <form onSubmit={handlleSubmit}>
